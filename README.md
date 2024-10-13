@@ -17,7 +17,6 @@ Fire Prevention works well on both iOS and Android devices.
 * [Redux Toolkit:](https://redux-toolkit.js.org/) A library that efficiently manages the application’s state, allowing for easy scalability and maintenance of the app's complex state logic.
 * [nativewind:](https://nativewind.dev/) A utility-first CSS framework for React Native, enabling rapid styling and design of the app's user interface.
 * [expo-router:](https://expo.dev/router) A routing library for Expo applications that simplifies navigation and URL handling, making it easier to manage app screens and deep linking.
-## Demo
 
 # Demo
 [![Xem video](./assets/images/screens/image.png)(./)](./assets/images/screens/record.gif)
