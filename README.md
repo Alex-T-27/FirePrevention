@@ -18,5 +18,7 @@ Fire Prevention works well on both iOS and Android devices.
 * [nativewind:](https://nativewind.dev/) A utility-first CSS framework for React Native, enabling rapid styling and design of the app's user interface.
 * [expo-router:](https://expo.dev/router) A routing library for Expo applications that simplifies navigation and URL handling, making it easier to manage app screens and deep linking.
 
+## [Installation](https://drive.google.com/file/d/1InLIHxG_A2SMXYC8bMfvmKvZ0uMRdXOm/view?usp=sharing/)
+
 # Demo
-[![Xem video](./assets/images/screens/image.png)(./)](https://firebasestorage.googleapis.com/v0/b/food-donation-98ef2.appspot.com/o/record.mp4?alt=media&token=646d531b-6d73-4319-9541-f73de4ecbe40)
+[![Xem video](./assets/images/screens/image.png)(./)](./assets/images/screens/record.gif)
